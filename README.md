@@ -21,7 +21,7 @@
 
 
 [website]: https://www.sanjaybora.ml/
-[instagram]: https://www.instagram.com/sanjaybora04/
+[instagram]: link
 
 ---
 
