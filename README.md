@@ -5,10 +5,9 @@
 [<img height="30" src = "https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 <!-- [<img height="30" src = "https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white">][instagram]  -->
 
-## I'm a Data Science and Machine Learning Engineer
+## I'm a Softward Developer
 
-- I have worked on [Computer Vision](https://github.com/sanjaybora04/LicensePlateDetection) and [Web Development][website] before
-- I’m currently working on [Customisable AI assistant for personal use](https://github.com/sanjaybora04/hackathon) 
+- I have experience in [Meachine Learning](https://github.com/sanjaybora04/LicensePlateDetection) and [Web Development][website]
 - You can reach me here :- [sanjaybora380@gmail.com](mailto:sanjaybora380@gmail.com)
 - To know more about me please visit my [Website][website]
 
