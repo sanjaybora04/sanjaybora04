@@ -5,13 +5,6 @@
 [<img height="30" src = "https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 <!-- [<img height="30" src = "https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white">][instagram]  -->
 
-## I'm a Softward Developer
-
-- I have experience in [Meachine Learning](https://github.com/sanjaybora04/LicensePlateDetection) and [Web Development][website]
-- You can reach me here :- [sanjaybora380@gmail.com](mailto:sanjaybora380@gmail.com)
-- To know more about me please visit my [Website][website]
-
----
 
 ## My GitHub Stats 💻
 
