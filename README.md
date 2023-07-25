@@ -13,7 +13,7 @@
 [![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaybora04&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://www.sanjaybora.ml/
+[website]: https://www.sanjaybora.tech
 [instagram]: https://www.instagram.com/sanjaybora04
 [linkedin]: http://www.linkedin.com/in/sanjay-bora-11710822b
 
